@@ -15,8 +15,5 @@
 ## Setup
 To easily use this code you need: Google colab or Jupyter Notebook importation of pandas, numpy
 
-## Datasets
-The dataset and glossary to use for this project can be found here. [https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc]
-
 ## Contact Details
 Incase of enquiries,additional suggestions or concerns,get in touch. jackkyalo978@gmail.com
